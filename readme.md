@@ -129,6 +129,3 @@ You can adjust the following hyperparameters by modifying the #define macros at 
     EPOCHS: Number of training epochs.
     LEARNING_RATE: Step size for gradient descent.
 
-License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
